@@ -2,7 +2,7 @@ package com.example.codingtest.string;
 
 import java.util.Scanner;
 
-/**
+/** 1-2
  *  대문자는 소문자로 , 소문자는 대문자로 다시 입력해주기
  */
 public class LowercaseToUpperCase {
