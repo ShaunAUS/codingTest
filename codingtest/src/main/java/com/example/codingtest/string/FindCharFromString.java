@@ -2,7 +2,7 @@ package com.example.codingtest.string;
 
 import java.util.Scanner;
 
-/**
+/** 1-1
  *  문자열에 해당 문자가 몇개 인지 출력   ex: Computer  c
  *  1. 전부다 대문자로 바꾼다. (그래야 대소문자 구별 x)
  *  2. for문으로 찾기
