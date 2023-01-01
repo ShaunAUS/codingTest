@@ -1,4 +1,4 @@
-package com.example.codingtest.string;
+package src.main.java.com.example.codingtest.string;
 
 import java.util.Scanner;
 
