@@ -1,4 +1,4 @@
-package src.main.java.com.example.codingtest.string;
+package com.example.codingtest.string;
 
 import java.util.ArrayList;
 import java.util.Scanner;
