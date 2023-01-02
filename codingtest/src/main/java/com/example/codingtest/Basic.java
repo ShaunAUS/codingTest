@@ -1,4 +1,4 @@
-package src.main.java.com.example.codingtest;
+package com.example.codingtest;
 
 import java.util.Scanner;
 
@@ -17,7 +17,8 @@ public class Basic {
         Basic t = new Basic();
         Scanner kb = new Scanner(System.in);
 
-        System.out.println();
+        String str = kb.next();
+        System.out.println(t.solution(str));
     }
 
 }
