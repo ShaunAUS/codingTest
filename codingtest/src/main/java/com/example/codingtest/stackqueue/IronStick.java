@@ -7,7 +7,7 @@ import java.util.Stack;
 /**
  * 쇠 막대기문제
  */
-public class StackQueueBasic {
+public class IronStick {
 
 
     public int solution(String str) {
@@ -41,7 +41,7 @@ public class StackQueueBasic {
 
     public static void main(String[] args) {
 
-        StackQueueBasic t = new StackQueueBasic();
+        IronStick t = new IronStick();
         Scanner kb = new Scanner(System.in);
 
         String str = kb.next();
