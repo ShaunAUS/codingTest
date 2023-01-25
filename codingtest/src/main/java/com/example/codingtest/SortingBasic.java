@@ -6,8 +6,7 @@ import java.util.Scanner;
 public class SortingBasic {
 
 
-    public int[] solution(int n,int[] arr) {
-
+    public int[] solution(int n, int[] arr) {
 
         return null;
     }
@@ -20,6 +19,10 @@ public class SortingBasic {
 
         int n = kb.nextInt();
         int[] arr = new int[n];
+
+        for (int k = 0; k < n; k++) {
+            arr[k] = kb.nextInt();
+        }
 
         System.out.println(Arrays.toString(t.solution(n, arr)));
     }
